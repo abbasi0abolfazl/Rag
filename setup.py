@@ -9,8 +9,6 @@ setup(
         "chromadb",
         "requests"
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
     description="A RAG application for PDF documents using ChromaDB and Ollama",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
